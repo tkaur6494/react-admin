@@ -28,7 +28,7 @@ const SidebarAdmin = ({isSideBarCollapsed, toggleSideBar}) => {
     data: [
       {
         title: "Manage Team",
-        link: "/",
+        link: "/team",
         icon: <PeopleOutlinedIcon />,
       },
       {
